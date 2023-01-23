@@ -1,0 +1,7 @@
+.vector_cache/
+
+.idea/
+
+data/
+
+*.iml
